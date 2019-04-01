@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TopGames</string>
+    <string name="error_msg">Sorry! Couldn\'t fetch movies.</string>
+    <string name="btn_retry">Retry</string>
+    <string name="error_msg_no_internet">Not connected to internet</string>
+    <string name="error_msg_timeout">The server took too long to respond</string>
+    <string name="error_msg_unknown">An unexpected error occurred</string>
+    <string name="tap_to_reload">Tap to reload</string>
+    <string name="image_of_the_game">Image of the game</string>
+    <string name="name_">%s</string>
+    <string name="channels_">%d</string>
+    <string name="viewers_">%d</string>
+    <string name="name">Name</string>
+    <string name="channels">Channels</string>
+    <string name="viewers">Viewers</string>
+</resources>
